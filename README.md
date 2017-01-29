@@ -7,7 +7,7 @@ Required reading, viewing, and knowledge :-
 [Video](https://www.youtube.com/watch?v=hQVTIJBZook)
 [Book](https://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 
-## ES2016 OVER than TypeScript ##
+## ES2016 OVER TypeScript ##
 'TypeScript is dead long live TypeScript'.
 
 As ES2016 has typing TypeScipt is no longer needed plus it produces horrible code especially when used with Angular 2.0 !
